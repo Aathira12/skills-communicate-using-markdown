@@ -21,4 +21,12 @@ $ git init
 Hello
 ```
 
+# github markdown activity completion checklist
+- [x] writing header
+- [x] inserting images
+- [x] inserting codes
+- [x] inserting checklist
+- [ ] inserting bullets
+- [ ] summary
+
 
